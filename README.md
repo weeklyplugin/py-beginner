@@ -11,3 +11,6 @@ Learn Python For Beginners 2020
 <li>Open source </li>
 <li>Developer suggest as first language</li></ul>
 
+<h2>Tools</h2>
+Visual code studio to write and run code. I am personally perfer becuase it has terminal and good IDE. You can download using following link :
+https://code.visualstudio.com/download
