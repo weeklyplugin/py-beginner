@@ -14,3 +14,16 @@ Learn Python For Beginners 2020
 <h2>Tools</h2>
 Visual code studio to write and run code. I am personally perfer becuase it has terminal and good IDE. You can download using following link :
 https://code.visualstudio.com/download
+
+Install extension in IDE i.e. VS Code called python. This will give instruction just checkout the document.
+
+<h3>Python Program Execution </h3>
+
+When you start learning you must know how to execute a code.
+
+<ul>
+  <li> file extension will <filename>.py </li>
+  <li> Python program execute from terminal using command python programname.py you can just write filename with extension.</li>
+ 
+</ul>
+
